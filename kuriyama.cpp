@@ -1,9 +1,10 @@
 #include <bits/stdc++.h>
+#define FIN ios::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 using namespace std; 
 
 // C => cantidad        V => valor      T => tipo
 
-int main(){
+int main(){FIN;
     int Cpiedras, Cpreguntas, Tpregunta, i,j;
 
     cin >> Cpiedras;
